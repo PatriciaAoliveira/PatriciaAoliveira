@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PatriciaAoliveira
+- 👀 I’m interested in tecnology, movies and arts
+- 🌱 I’m currently learning Power Bi, Agile Metodologies and Web Design.
+- 📫patriciaa.oliveira95@outlook.com
